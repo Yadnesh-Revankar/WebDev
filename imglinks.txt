@@ -1,0 +1,19 @@
+https://images.unsplash.com/photo-1526632623135-890fa91651e4?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=80
+https://images.unsplash.com/photo-1469032923574-4f1413034019?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80
+https://images.unsplash.com/photo-1591196702597-062a87208fed?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1500&q=80
+https://images.unsplash.com/photo-1548048215-c0af400e313b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=334&q=80
+https://images.unsplash.com/photo-1585671962215-473bcfa06caa?ixlib=rb-1.2.1&auto=format&fit=crop&w=771&q=80
+https://images.unsplash.com/photo-1493711662062-fa541adb3fc8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80
+https://images.unsplash.com/photo-1593305841991-05c297ba4575?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=653&q=80
+https://images.unsplash.com/photo-1573478877708-737bc2ed7664?ixlib=rb-1.2.1&auto=format&fit=crop&w=667&q=80
+https://images.unsplash.com/photo-1589241062272-c0a000072dfa?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=667&q=80
+
+https://www.esrb.org/ratings-guide/
+https://www.callofduty.com/content/dam/atvi/global/ratings/esrb/footer-esrb-WZ-EN.png
+
+https://www.callofduty.com/content/dam/atvi/infinityward/iw-touchui/header-logo.png
+https://www.callofduty.com/content/dam/atvi/global/studio-logos/activision-footer.png
+https://1000logos.net/wp-content/uploads/2019/06/electronic-arts-logo.png
+
+https://image.freepik.com/free-vector/3d-hexagon-wall-with-neon-glow-background_93536-370.jpg 
+background: url("https://i.ytimg.com/vi/rXh5whOnnuw/maxresdefault.jpg");
